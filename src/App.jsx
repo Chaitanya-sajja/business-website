@@ -3,7 +3,11 @@ import Header from "./components/Header/Header";
 function App() {
     return (
         <>
-            <Header />
+            <Header
+                title="Business Website"
+                subtitle="Modern Web Solutions"
+                
+            />
         </>
     );
 }
